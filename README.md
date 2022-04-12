@@ -1,1 +1,1 @@
-HelloWorld
+Just a repository created for a labs.github.com course.
