@@ -11,7 +11,6 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hi.");
-            oh no it has a build error
         }
     }
 }
